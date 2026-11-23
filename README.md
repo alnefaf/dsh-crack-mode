@@ -1,6 +1,6 @@
 <div align="center">
 
-# 破解模式 · Crack Mode
+# LG破甲 · 破解模式 · Crack Mode
 
 ### 把逆向工程从「碰运气」变成「可交付」
 
@@ -302,6 +302,14 @@ Windows 10/11 x64 + 已安装 DSH；模型/API 自备。插件本身不含模型
 
 ---
 
+## 搜索关键词
+
+**LG破甲 · 破甲 · 深度求索 · 人工智能安全评估 · 技能库 · 漏洞知识库**
+
+破解模式 · Crack Mode · DSH 插件 · DeepSeek · AI 逆向 · 逆向工程 · 恶意样本分析 · APK 逆向 · 手机逆向 · VMP 脱壳 · 反调试 · 云下发载荷 · 抓包 · 证书固定绕过 · 重打包签名 · Frida · Ghidra · 安全评估
+
+---
+
 <div align="center">
 
 **为愿意读证据的人准备。**
@@ -318,17 +326,17 @@ Windows 10/11 x64 + 已安装 DSH；模型/API 自备。插件本身不含模型
 
 **Description**
 
-> DSH 破解模式（商业授权版）：全自动流水线，少人盯屏；VMP 壳 / 反调试 / 自动拉黑 / 云下发载荷 / 手机 APK 全链路硬骨头专供；不飘、不幻觉、不死循环、不炸机；旁路模式 AI 指导，按上下文点对点回答。首发个人版 ¥299，QQ 群 1121664798。本仓库仅展示，不含源码。
+> LG破甲 / 破甲 / 深度求索 / DSH 破解模式（商业授权版）：全自动流水线，少人盯屏；VMP 壳 / 反调试 / 自动拉黑 / 云下发载荷 / 手机 APK 全链路；不飘、不幻觉、不死循环、不炸机；旁路 AI 指导，按上下文点对点回答。人工智能安全评估 / 技能库 / 漏洞知识库。首发 ¥299，QQ 群 1121664798。本仓库仅展示，不含源码。
 
 **Description (EN)**
 
-> DSH Crack Mode (commercial license): an automated pipeline that cuts hands-on babysitting; built for VMP shells, anti-debug, auto-blacklist, cloud-delivered payloads and mobile APKs; evidence-first, loop-safe, isolation-first, with a beginner-friendly side-channel Q&A. Showcase only — source not included.
+> LG Crack / DSH Crack Mode (commercial license): an automated pipeline that cuts hands-on babysitting; built for VMP shells, anti-debug, auto-blacklist, cloud-delivered payloads and mobile APKs; evidence-first, loop-safe, isolation-first, with a beginner-friendly side-channel Q&A. AI security assessment, skill library, vulnerability knowledge base. Showcase only — source not included.
 
 **Topics**
 
-`dsh` `reverse-engineering` `crack-mode` `windows` `commercial-software` `security-tools` `workflow`
+`dsh` `reverse-engineering` `crack-mode` `lg-crack` `lg-pojia` `ai-security` `security-assessment` `malware-analysis` `frida` `ghidra` `apk-reverse-engineering` `vmp` `anti-debug` `cloud-payload` `skill-library` `vulnerability-knowledge-base` `deepseek` `windows` `commercial-software` `security-tools`
 
 **Short pitch（群/动态用）**
 
-> 全自动流水线，少人盯屏；VMP 壳、反调试、自动拉黑、云下发载荷、手机 APK 硬骨头专供；不飘、不幻觉、不死循环、不炸机；旁路模式 AI 指导破解助手，按上下文点对点回答。首发个人版 ¥299。  
+> LG破甲 / 破甲：全自动流水线，少人盯屏；VMP 壳、反调试、自动拉黑、云下发载荷、手机 APK 硬骨头专供；不飘、不幻觉、不死循环、不炸机；旁路 AI 指导破解助手，按上下文点对点回答。首发个人版 ¥299。  
 > GitHub 只展示，完整版在 QQ 群：`1121664798`。
