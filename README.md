@@ -199,9 +199,9 @@
 
 ## 界面
 
-> 工作台界面（示例数据）。
+> 破解模式控制台 v3（示例数据）。
 
-![破解模式工作台](docs/console-results.png)
+![破解模式控制台 v3](docs/console-results.png)
 
 ---
 
